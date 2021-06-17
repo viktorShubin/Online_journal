@@ -1,0 +1,22 @@
+.logo {
+    font-size: 15px;
+}
+
+.card-body a {
+    text-decoration: none !important;
+}
+
+#sidebar {
+    background: green;
+}
+
+#sidebar .custom-menu .btn.btn-primary {
+    background: green;
+    border-color: green;
+}
+
+#sidebar .custom-menu .btn.btn-primary:hover,
+#sidebar .custom-menu .btn.btn-primary:focus {
+    background: green !important;
+    border-color: green !important;
+}
